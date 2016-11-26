@@ -1,2 +1,3 @@
-modifield line First line
+added
+modified second time modifield line First line
 second line in first file.
