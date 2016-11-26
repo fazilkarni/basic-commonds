@@ -1,0 +1,1 @@
+fourth file created to create conflits and to do rebase without new commit
